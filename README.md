@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @zachsellers
+- 👀 I’m interested in Data Analytics and Business Analytics.
+- 🌱 I’m currently learning SQL Server, Tableau, R, and data modeling.
+- 📫 Reach me via email: sellers.zachary1@gmail.com or LinkedIn: linkedin.com/in/sellerszachary
